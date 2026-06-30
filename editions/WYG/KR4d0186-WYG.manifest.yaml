@@ -1,0 +1,56 @@
+canonical_identifier: bkk:krp/KR4d0186/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4d0186/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 郴江百詠
+  date: '2015-08-24 23:58:01.823583'
+  source:
+    repository: kanripo
+    path: KR4d0186
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4d0186_000-WYG.yaml, hash: 'sha256:f03d92c8505f3fcbaaf554d846e2f474fbb9d52ad6ede10b90979356418a87c6'}
+  - {seq: 1, filename: KR4d0186_001-WYG.yaml, hash: 'sha256:bcc383708652280516ad336f9d3ae1779a9153cd1f3e02b5049966470a527cb4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4d0186_000-WYG.markers.yaml, hash: 'sha256:772f7ecd331c27f4ebab3bc59309dbda101d580bcdce48ea914f425816e65509'}
+  - {seq: 1, role: markers, filename: assets/KR4d0186_001-WYG.markers.yaml, hash: 'sha256:bb1755bd858a2cf55ad5f328a014dd22b5848f7d733b7f2ab79c40c5a586c784'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4d0186_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 378
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4d0186_WYG_000-3a
+    span:
+    - body
+    - 378
+    - 546
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4d0186_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2899
+  label: 郴江百詠
+  type: section
+  level: 1
+hash: sha256:1de5241a26536c72bc6ce903d027eb7ae66b2010d74544c81923ee483e596a7c

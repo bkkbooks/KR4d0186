@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR4d0186_000-WYG.yaml, hash: 'sha256:f03d92c8505f3fcbaaf554d846e2f474fbb9d52ad6ede10b90979356418a87c6'}
   - {seq: 1, filename: KR4d0186_001-WYG.yaml, hash: 'sha256:bcc383708652280516ad336f9d3ae1779a9153cd1f3e02b5049966470a527cb4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0186_000-WYG.markers.yaml, hash: 'sha256:772f7ecd331c27f4ebab3bc59309dbda101d580bcdce48ea914f425816e65509'}
+  - {seq: 0, role: markers, filename: assets/KR4d0186_000-WYG.markers.yaml, hash: 'sha256:7278828e29a32895c0c19b2700356aa5d5fa8d64a5002024ab807a22c48ff123'}
   - {seq: 1, role: markers, filename: assets/KR4d0186_001-WYG.markers.yaml, hash: 'sha256:bb1755bd858a2cf55ad5f328a014dd22b5848f7d733b7f2ab79c40c5a586c784'}
 table_of_contents:
 - ref:
@@ -53,4 +53,4 @@ table_of_contents:
   label: 郴江百詠
   type: section
   level: 1
-hash: sha256:1de5241a26536c72bc6ce903d027eb7ae66b2010d74544c81923ee483e596a7c
+hash: sha256:911f3d3cbfe206f16ff0a579caa860d17551a695cf3c7c3962eb4b5e3be030fe

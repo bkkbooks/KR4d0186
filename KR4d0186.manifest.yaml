@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR4d0186_000.yaml, hash: 'sha256:cbe2f6c4bfca7a89438569c14c764a28bef86c2f2cfead7e8f35b812ec40e1ec'}
   - {seq: 1, filename: KR4d0186_001.yaml, hash: 'sha256:1d4998edafe6af9a76e3b5635e726304e684fa38333d90a0ec16863f03287eb6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0186_000.markers.yaml, hash: 'sha256:fa71ab6f7e84fda51ff7a582235c544b3c90f51671968879e55166173ed483d1'}
+  - {seq: 0, role: markers, filename: assets/KR4d0186_000.markers.yaml, hash: 'sha256:a24987bed02f8ef817b86f45888dd54d9a2676bc121dbd1a0f6d0930d9355993'}
   - {seq: 1, role: markers, filename: assets/KR4d0186_001.markers.yaml, hash: 'sha256:b6210ef1ec9cc51baa9ed79b747b932fb4ebc7e1f9933b68a6bd1765481dca23'}
 table_of_contents:
 - ref:
@@ -56,7 +56,7 @@ table_of_contents:
   label: 郴江百詠
   type: section
   level: 1
-hash: sha256:37e0f7411a5e64900b8bf961a1eb2ffb0bc0042215146b6f14751e060dd7d25f
+hash: sha256:029bb28d4181cde34d8edcd6509901ba77b6ca65b1dcd32bc73d544e19ac85b9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
